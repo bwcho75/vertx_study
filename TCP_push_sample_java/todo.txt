@@ -1,6 +1,9 @@
 Todo items for enhancement
 
-* when socket has been disconnected, handler is required
-* Java Test Client
+* when socket has been disconnected, handler is required - done
+* Java Test Client 
+  : Client should be event handler based
+  - after client has been run. It will start thread to receive message from server
+  - and send message if there is a event. 
 * Register protocol
 * Hearbeat protocol
