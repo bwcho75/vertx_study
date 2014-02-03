@@ -1,0 +1,6 @@
+Todo items for enhancement
+
+* when socket has been disconnected, handler is required
+* Java Test Client
+* Register protocol
+* Hearbeat protocol
