@@ -5,5 +5,6 @@ Todo items for enhancement
   : Client should be event handler based
   - after client has been run. It will start thread to receive message from server
   - and send message if there is a event. 
+  > 5초에 한번씩 메세지 보내고, 나머지는 Listen 하는 형태로 만들것. (이 부분을 Synchronized 처리하면 됨)
 * Register protocol
 * Hearbeat protocol
