@@ -1,3 +1,3 @@
 {
-  "main":"simple.js"
+  "main":"server.js"
 }
